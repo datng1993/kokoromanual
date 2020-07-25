@@ -1,0 +1,42 @@
+body {
+    font-family: sans-serif;
+    text-align: center;
+}
+
+.logo {
+  position: relative;
+  bottom: 80px;
+  margin: 0;
+  width: 200px;
+  height: auto;
+}
+
+.title1 {
+  position: relative;
+  bottom: 180px;
+}
+
+.middle-container {
+  text-align: left;
+  position: relative;
+  bottom: 150px;
+}
+
+.ins {
+  background-color: #eeeeee;
+  padding: 4px;
+  margin: 0;
+  box-shadow: 1px 1px 2px #bbbbbb;
+}
+
+.bod {
+  font-style: italic;
+}
+
+hr {
+  width: 15%;
+}
+
+span {
+  font-style: italic;
+}
